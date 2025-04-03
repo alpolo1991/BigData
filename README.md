@@ -14,7 +14,7 @@ Limpieza, transformación y EDA con Spark DataFrames.
 
 ### Archivo:
 
-```ipynb
+```
 Procesamiento_en_batch_Spark_DF.ipynb
 ```
 
